@@ -1,6 +1,7 @@
 # Customer_Churn
 Using Machine learning models such as :Artificial Neural Network and Logistic Regression  to predict customer churn 
 Download dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Streamlit app link: https://customer-churn-prediction-ghckzpqe8phmdnsmqtzgff.streamlit.app/
 
 Login Credentials
 
